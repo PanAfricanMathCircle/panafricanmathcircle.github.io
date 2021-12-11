@@ -34,16 +34,19 @@ We are lucky to have around 100 students from the following countries:
 ## Detailed Schedule
 <span class="h-line"></span>
 
-### Weak 1 (December 4th)
+### Week 1 (December 4th)
 
 {:.normal-list}
 * **Instructor:** Timothy Chu
-* **Title:** TBD
-* **Abstract:** TBD
-* **Notes:** TBD
+* **Recording:** [https://discord.com/channels/898937169530482698/912932630377418752/916745260997177406](https://discord.com/channels/898937169530482698/912932630377418752/916745260997177406) (Passcode: ^g0=TnWA)
+
+### Week 2 (December 11th)
+
+{:.normal-list}
+* **Instructor:** Josh Alman
 * **Recording:** TBD
 
-### Weak 2 (December 11th)
+### Week 3 (January 8th)
 
 {:.normal-list}
 * **Instructor:** TBD
@@ -52,7 +55,7 @@ We are lucky to have around 100 students from the following countries:
 * **Notes:** TBD
 * **Recording:** TBD
 
-### Weak 3 (January 8th)
+### Week 4 (January 15th)
 
 {:.normal-list}
 * **Instructor:** TBD
@@ -61,7 +64,7 @@ We are lucky to have around 100 students from the following countries:
 * **Notes:** TBD
 * **Recording:** TBD
 
-### Weak 4 (January 15th)
+### Week 5 (January 22th)
 
 {:.normal-list}
 * **Instructor:** TBD
@@ -70,7 +73,7 @@ We are lucky to have around 100 students from the following countries:
 * **Notes:** TBD
 * **Recording:** TBD
 
-### Weak 5 (January 22th)
+### Week 6 (January 29th)
 
 {:.normal-list}
 * **Instructor:** TBD
@@ -79,7 +82,7 @@ We are lucky to have around 100 students from the following countries:
 * **Notes:** TBD
 * **Recording:** TBD
 
-### Weak 6 (January 29th)
+### Week 7 (February 5th)
 
 {:.normal-list}
 * **Instructor:** TBD
@@ -88,7 +91,7 @@ We are lucky to have around 100 students from the following countries:
 * **Notes:** TBD
 * **Recording:** TBD
 
-### Weak 7 (February 5th)
+### Week 8 (February 12th)
 
 {:.normal-list}
 * **Instructor:** TBD
@@ -97,16 +100,7 @@ We are lucky to have around 100 students from the following countries:
 * **Notes:** TBD
 * **Recording:** TBD
 
-### Weak 8 (February 12th)
-
-{:.normal-list}
-* **Instructor:** TBD
-* **Title:** TBD
-* **Abstract:** TBD
-* **Notes:** TBD
-* **Recording:** TBD
-
-### Weak 9 (February 19th)
+### Week 9 (February 19th)
 
 {:.normal-list}
 * **Instructor:** TBD
